@@ -11,7 +11,7 @@
 
 - [x] Day 1. Variables, simple data types, and string interpolation.
 - [x] Day 2. Arrays, dictionaries, sets, and enums.
-- [ ] Day 3. Operators and conditions.
+- [x] Day 3. Operators and conditions.
 - [ ] Day 4. Loops, loops, and more loops.
 - [ ] Day 5. Functions, parameters, and errors.
 - [ ] Day 6. Closures part one.
