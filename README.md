@@ -13,7 +13,7 @@
 - [x] Day 2. Arrays, dictionaries, sets, and enums.
 - [x] Day 3. Operators and conditions.
 - [x] Day 4. Loops, loops, and more loops.
-- [ ] Day 5. Functions, parameters, and errors.
+- [x] Day 5. Functions, parameters, and errors.
 - [ ] Day 6. Closures part one.
 - [ ] Day 7. Closures part two.
 - [ ] Day 8. Structs, properties, and methods.
