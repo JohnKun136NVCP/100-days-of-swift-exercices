@@ -15,7 +15,7 @@
 - [x] Day 4. Loops, loops, and more loops.
 - [x] Day 5. Functions, parameters, and errors.
 - [x] Day 6. Closures part one.
-- [ ] Day 7. Closures part two.
+- [x] Day 7. Closures part two.
 - [ ] Day 8. Structs, properties, and methods.
 - [ ] Day 9. Access control, static properties, and laziness.
 - [ ] Day 10. Classes and inheritance.
