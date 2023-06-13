@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Day 1'/>
+        <page name='Day 2'/>
+        <page name='Day 3'/>
+        <page name='Day 4'/>
+        <page name='Day 5'/>
+        <page name='Day 6'/>
+        <page name='Day 7'/>
+        <page name='Day 8'/>
+        <page name='Day 9'/>
+    </pages>
+</playground>
